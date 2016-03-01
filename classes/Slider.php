@@ -233,7 +233,7 @@ setTimeout ("LinkGoLeftTr()", 4900);
 			<!-- left st. -->
 			<div class="slide-box-left">
 				<a id="Link_left_Tr" href="javascript:BackTravel(0); RET_Block_travel_LEFT(NumTravel); RET_Block_travel(NumTravel); RET_Block_travel_RIGHT(NumTravel);">
-					<img class="slide-img-left" src="images/_news/IMG_6311.jpg" alt="" name="block_foto_Block_travel_LEFT" title="Попередня новина"/>
+					<img class="slide-img-left" src="images/_news/IMG_6311.jpg" alt="" name="block_foto_Block_travel_LEFT" title="Предыдущий"/>
 				</a>
 			</div>			
 			<!-- left end -->
@@ -253,7 +253,7 @@ setTimeout ("LinkGoLeftTr()", 4900);
 		<!-- Right st. -->
 		<div class="slide-box-right">
 					<a href="javascript:BackTravel(1); RET_Block_travel_LEFT(NumTravel); RET_Block_travel(NumTravel); RET_Block_travel_RIGHT(NumTravel);">
-					<img class="slide-img-right" src="images/_news/IMG_6317.jpg" alt="" name="block_foto_Block_travel_RIGHT" title="Наступна новина"/>
+					<img class="slide-img-right" src="images/_news/IMG_6317.jpg" alt="" name="block_foto_Block_travel_RIGHT" title="Следующий"/>
 					</a>
 				</div>
 		<!-- Right end -->
