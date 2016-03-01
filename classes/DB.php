@@ -1,7 +1,7 @@
 <?php
 
-$connection = mysql_connect("localhost", "DB", "Us-n");
-$db = mysql_select_db("DB"); 
+$connection = mysql_connect("localhost", "BD", "US-n");
+$db = mysql_select_db("BD");
 
 mysql_query(" SET NAMES 'utf-8' ");
 
